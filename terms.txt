@@ -1,0 +1,21 @@
+1. Expression
+A combination of items, like variables, literals, 
+operators, and parentheses, that evaluates 
+to a value. (y = 2 * (x + 1))
+
+2. Operator
+A symbol that performs a built-in calculation (+,-)
+
+3. Evaluate
+An expression evluates to a value, which replaces
+the expression. (x is 5, then x + 1 evaluates to 6)
+
+4. Precedence
+An expression is evaluated using the order of 
+standard mathematics, such order known in 
+programming as precedence rules.
+
+5. Floating-point
+A floating-point number refers to the decimal point 
+being able to appear anywhere ("float") in the 
+number.
